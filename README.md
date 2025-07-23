@@ -1,2 +1,2 @@
 # Pong-game
-This is a pong game (Made using python pygame) That has a shop where you can buy different paddles and colors, an inventory, different difficulty bots to play against, and an option to play against friends. This game also has a coins currency you can spend in the shop
+This Python Pygame-based pong game features a shop where players can acquire various paddles and colors. An inventory system allows players to manage their purchases. Additionally, the game offers diverse difficulty bots for multiplayer competition and the option to engage in friendly matches. A coin currency enables players to make purchases in the shop.
